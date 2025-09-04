@@ -1,4 +1,4 @@
-Used-car-price-prediction
+*** Used-car-price-prediction
 Overview
 This project predicts the price of a used car using factors such as mileage, year, accident history, fuel type. Goal : help buyers and sellers estimate fair price.
 Dataset
